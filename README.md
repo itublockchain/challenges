@@ -1,1 +1,1 @@
-Welcome to Solidity challenges created by ITU Blockchain. 
+Welcome to Solidity challenges created by ITU Blockchain
